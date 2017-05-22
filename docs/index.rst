@@ -6,9 +6,9 @@ Inhalt
 .. toctree::
    
 	:glob:
-   BestPractice/*
+   ./BestPractice/*
    
-   GettingStarted/*
+   ./GettingStarted/*
    
    Using/*
    
