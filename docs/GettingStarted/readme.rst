@@ -1,3 +1,6 @@
+GettingStarted - Readme
+=======================
+
 Enthält vielleicht Übersichtsdokumente, die erklären, wofür man Kitodo eigentlich einsetzt.
 
 - wie kommt man ran ?
