@@ -99,3 +99,10 @@ Und das ist eine Strichliste:
 -  erstens
 -  zweitens
 -  drittens
+
+|image0|
+
+.. |image0| image:: Untitled.jpg
+   :width: 4.8764in
+   :height: 5.9382in
+
