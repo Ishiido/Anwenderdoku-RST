@@ -5,7 +5,7 @@ Inhalt
 
 .. toctree::
    
-	:glob:
+   :glob:
    ./BestPractice/*
    
    ./GettingStarted/*
