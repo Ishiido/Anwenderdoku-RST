@@ -1,4 +1,4 @@
-BestPractise Info
+BestPractice Info
 ====================
 
 
